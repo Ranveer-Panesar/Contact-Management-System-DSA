@@ -283,7 +283,7 @@ Ensure you have the following installed:
 
 ```
 1. Clone the repository
-git clone https://github.com/yourusername/ContactManagementSystem.git
+git clone https://github.com/Ranveer-Panesar/ContactManagementSystem.git
 cd ContactManagementSystem
 
 2. Open in Qt Creator
@@ -296,7 +296,7 @@ Configure with Qt 6.x kit → Click Run (Ctrl+R)
 
 ```
 1. Clone the repository
-git clone https://github.com/yourusername/ContactManagementSystem.git
+git clone https://github.com/Ranveer-Panesar/ContactManagementSystem.git
 cd ContactManagementSystem
 
 2. Create build directory
@@ -474,9 +474,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 *Data Structures and Algorithms Project*  
 *October 2025*
 
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+📧 Email: ranveerpanesar06@gmail.com  
+🔗 GitHub: [@Ranveer-Panesar](https://github.com/Ranveer-Panesar)  
 
 ---
 
