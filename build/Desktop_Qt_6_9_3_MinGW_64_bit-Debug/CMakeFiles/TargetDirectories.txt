@@ -1,0 +1,5 @@
+C:/Users/Ranveer/Documents/ContactManager/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/ContactManager.dir
+C:/Users/Ranveer/Documents/ContactManager/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ranveer/Documents/ContactManager/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ranveer/Documents/ContactManager/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/ContactManager_autogen_timestamp_deps.dir
+C:/Users/Ranveer/Documents/ContactManager/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/ContactManager_autogen.dir
